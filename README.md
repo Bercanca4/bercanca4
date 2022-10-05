@@ -1,6 +1,6 @@
 ### Herkese Merhaba 👋
 
-### Yama Notları V.0.1
+## Yama Notları V.0.1
 
 
 
