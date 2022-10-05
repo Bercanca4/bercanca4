@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 🎩 Pronouns: ...
 - 🔑 Fun fact: ...
 
+![1027072102999793675](https://dcbadge.vercel.app/api/shield/1027072102999793675)
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Bercanca4) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/its.beco/) 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40becografi)](https://twitter.com/cloudposse)
