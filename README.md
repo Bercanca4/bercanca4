@@ -17,8 +17,6 @@ Adım Bercan. 19 yaşında 2. sınıf Bilgisayar Programcılığı önlisans ö�
 
 # Stats
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=bercanca4&show_icons=true&theme=gradient) 
-
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bercanca4&show_icons=true&theme=radical)
 
 
