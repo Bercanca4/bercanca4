@@ -4,6 +4,7 @@ Adım Bercan. 19 yaşında 2. sınıf Bilgisayar Programcılığı önlisans ö�
 
 # Languages/Libraries/Frameworks 
 
+Soon...
 
 #
 
