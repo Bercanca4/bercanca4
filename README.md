@@ -1,3 +1,6 @@
+
+![Github](https://user-images.githubusercontent.com/69484325/194362265-b6718504-2b0e-4233-bacf-e6fc8a055872.gif)
+
 # Hakkımda/About 👋
 
 Adım Bercan. 19 yaşında 2. sınıf Bilgisayar Programcılığı önlisans öğrencisiyim. Hedeflerim arasında Bilgisayar mühendisliği ve Yazılım mühendisliği gibi alanlar bulunmakta. Uzun zamandır yazılıma olan ilgimden dolayı araştırmalar yapıp projeler üretiyorum. Bir çok yazılım dili ve mimarisinde projeler yapıp kursları izliyorum. Yeni dönem hedefim genel olarak öğrendiklerimi bir blog sayfasında yayınlamak ve kendimi orada daha iyi tanıtmak. Şimdiye kadar C# ve Js dilleri ile ilerlemiş olsamda ASP.NET Core ve React Native başlıkları ile ilgileniyorum. Hem Web de hemde mobilde olmak zor olsada gayet zevkli ve akıcı ilerliyor.
@@ -17,3 +20,5 @@ Soon...
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=bercanca4&show_icons=true&theme=gradient) 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bercanca4&show_icons=true&theme=radical)
+
+
