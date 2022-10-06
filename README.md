@@ -1,5 +1,4 @@
-
-![Github](https://user-images.githubusercontent.com/69484325/194362265-b6718504-2b0e-4233-bacf-e6fc8a055872.gif)
+![1627410725104](https://user-images.githubusercontent.com/69484325/194364451-7f5c3d11-5781-42cc-b820-79dbbc7d9f48.jpg)
 
 # Hakkımda/About 👋
 
