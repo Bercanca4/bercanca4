@@ -7,7 +7,7 @@ Adım Bercan. 19 yaşında 2. sınıf Bilgisayar Programcılığı önlisans ö�
 
 # Languages/Libraries/Frameworks 
 
-Soon...
+✧ Mobile & Web ● C# - MVC / .NET Framework ● React Native ● Web UI - JS
 
 # Social
 
