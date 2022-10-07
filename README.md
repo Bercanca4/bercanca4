@@ -27,7 +27,7 @@ Adım Bercan. 19 yaşında 2. sınıf Bilgisayar Programcılığı önlisans ö�
   </tr>
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/69484325/194446203-c7a9de78-83bb-4dfd-b149-3bb860cf41e0.png" width="35" height="35"/></td>
-    <td><img src="https://user-images.githubusercontent.com/69484325/194448808-17295a10-bfda-4e50-973c-30631be98069.png" width="75" height="40"/></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/69484325/194448808-17295a10-bfda-4e50-973c-30631be98069.png" width="75" height="40"/></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/69484325/194446210-585ed69c-bb8d-4dd8-88bb-4c5643e140f6.png" width="50" height="50"/>    </td>
   </tr>
     <tr>
