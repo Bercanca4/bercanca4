@@ -1,4 +1,4 @@
-![1627410725104](https://user-images.githubusercontent.com/69484325/194364451-7f5c3d11-5781-42cc-b820-79dbbc7d9f48.jpg)(https://instagram.com/its.beco)
+![1627410725104](https://user-images.githubusercontent.com/69484325/194364451-7f5c3d11-5781-42cc-b820-79dbbc7d9f48.jpg)
 
 # Hakkımda/About 👋
 
