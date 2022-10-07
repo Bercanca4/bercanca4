@@ -1,5 +1,5 @@
 ![1627410725104](https://user-images.githubusercontent.com/69484325/194364451-7f5c3d11-5781-42cc-b820-79dbbc7d9f48.jpg)
-
+[1627410725104](https://user-images.githubusercontent.com/69484325/194364451-7f5c3d11-5781-42cc-b820-79dbbc7d9f48.jpg](https://instagram.com/its.beco)
 # Hakkımda/About 👋
 
 Adım Bercan. 19 yaşında 2. sınıf Bilgisayar Programcılığı önlisans öğrencisiyim. Hedeflerim arasında Bilgisayar mühendisliği ve Yazılım mühendisliği gibi alanlar bulunmakta. Uzun zamandır yazılıma olan ilgimden dolayı araştırmalar yapıp projeler üretiyorum. Bir çok yazılım dili ve mimarisinde projeler yapıp kursları izliyorum. Yeni dönem hedefim genel olarak öğrendiklerimi bir blog sayfasında yayınlamak ve kendimi orada daha iyi tanıtmak. Şimdiye kadar C# ve Js dilleri ile ilerlemiş olsamda ASP.NET Core ve React Native başlıkları ile ilgileniyorum. Hem Web de hemde mobilde olmak zor olsada gayet zevkli ve akıcı ilerliyor.
