@@ -7,8 +7,11 @@ Adım Bercan. 19 yaşında 2. sınıf Bilgisayar Programcılığı önlisans ö�
 # Languages/Libraries/Frameworks 
 
 ✧ Mobile & Web ● C# - MVC / .NET Core ● React Native ● Web UI - JS
-
-<img src="[https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png](https://user-images.githubusercontent.com/69484325/194446197-00414921-8728-4325-9d42-ac40adb520c2.png)" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
+<img src="https://user-images.githubusercontent.com/69484325/194446197-00414921-8728-4325-9d42-ac40adb520c2.png" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/69484325/194446203-c7a9de78-83bb-4dfd-b149-3bb860cf41e0.png" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/69484325/194446210-585ed69c-bb8d-4dd8-88bb-4c5643e140f6.png" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/69484325/194446217-5be2093f-5ec1-4a6b-897c-51e25a7ec275.png" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/69484325/194446243-25cc0c28-6754-44e8-aaaa-ba4aea56fe87.png" width="50" height="50"/>
 
 # Social
 
@@ -20,10 +23,3 @@ Adım Bercan. 19 yaşında 2. sınıf Bilgisayar Programcılığı önlisans ö�
 # Stats
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bercanca4&show_icons=true&theme=radical)
-
-
-![html](https://user-images.githubusercontent.com/69484325/194446197-00414921-8728-4325-9d42-ac40adb520c2.png)
-![javascript](https://user-images.githubusercontent.com/69484325/194446203-c7a9de78-83bb-4dfd-b149-3bb860cf41e0.png)
-![react](https://user-images.githubusercontent.com/69484325/194446210-585ed69c-bb8d-4dd8-88bb-4c5643e140f6.png)
-![css](https://user-images.githubusercontent.com/69484325/194446217-5be2093f-5ec1-4a6b-897c-51e25a7ec275.png)
-![_Csharp](https://user-images.githubusercontent.com/69484325/194446243-25cc0c28-6754-44e8-aaaa-ba4aea56fe87.png)
