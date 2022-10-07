@@ -8,7 +8,7 @@ Adım Bercan. 19 yaşında 2. sınıf Bilgisayar Programcılığı önlisans ö�
 
 ✧ Mobile & Web ● C# - MVC / .NET Core ● React Native ● Web UI - JS
 
-
+<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
 
 # Social
 
